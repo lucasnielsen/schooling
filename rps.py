@@ -1,7 +1,3 @@
-# professor singh, i want you to know that i can write code way better than this. you fucking suck at teaching. let me write some ai for an assignment instead of this shit
-
-# professor singh, i am sorry for what i said above. please raise my mark. it worked okay. i will do anything for you.
-
 import random
 
 choices = ["rock", "paper", "scissors"]
